@@ -1,0 +1,1 @@
+// Clients side, view the shared file
